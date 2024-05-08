@@ -134,4 +134,4 @@ Here comes the result and my answer.
 
     According to the cumulative distribution function, the maximum length of IP packets transmitted by TCP is smaller than the maximum length of IP packets transmitted by UDP. At the same time, there are significantly more packets with lengths less than 200 transmitted by TCP.
 5. According to the file `ipv6_traffic.pcap`, the tcpdump filters successfully capture ipv6 traffic.  
-   [ipv6_traffic.pcap](ipv6_traffic.pcap)
+   [ipv6_traffic.pcap](https://github.com/David-Zhu03/A3_capture_and_analysis/blob/main/ipv6_traffic.pcap)
